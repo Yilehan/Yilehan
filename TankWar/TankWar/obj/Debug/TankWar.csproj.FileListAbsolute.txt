@@ -1,0 +1,9 @@
+C:\Users\DELL\Desktop\TankWar\TankWar\bin\Debug\TankWar.exe
+C:\Users\DELL\Desktop\TankWar\TankWar\bin\Debug\TankWar.pdb
+C:\Users\DELL\Desktop\TankWar\TankWar\obj\Debug\TankWar.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\TankWar\TankWar\obj\Debug\TankWar.FrmMain.resources
+C:\Users\DELL\Desktop\TankWar\TankWar\obj\Debug\TankWar.Properties.Resources.resources
+C:\Users\DELL\Desktop\TankWar\TankWar\obj\Debug\TankWar.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\TankWar\TankWar\obj\Debug\TankWar.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\TankWar\TankWar\obj\Debug\TankWar.exe
+C:\Users\DELL\Desktop\TankWar\TankWar\obj\Debug\TankWar.pdb

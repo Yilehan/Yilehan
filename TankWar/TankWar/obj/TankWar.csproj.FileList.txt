@@ -1,0 +1,8 @@
+bin\Debug\TankWar.exe
+bin\Debug\TankWar.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\TankWar.Properties.Resources.resources
+obj\Debug\TankWar.csproj.GenerateResource.Cache
+obj\Debug\TankWar.exe
+obj\Debug\TankWar.pdb
+obj\Debug\TankWar.FrmMain.resources

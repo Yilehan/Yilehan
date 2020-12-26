@@ -1,0 +1,24 @@
+C:\Documents and Settings\Administrator\桌面\TankWar\TankWar\TankWar\obj\Debug\TankWar.exe
+C:\Documents and Settings\Administrator\桌面\TankWar\TankWar\TankWar\obj\Debug\TankWar.pdb
+C:\Documents and Settings\Administrator\桌面\TankWar\TankWar\TankWar\bin\Debug\TankWar.exe
+C:\Documents and Settings\Administrator\桌面\TankWar\TankWar\TankWar\bin\Debug\TankWar.pdb
+C:\Documents and Settings\Administrator\桌面\TankWar\TankWar\TankWar\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\TankWar\TankWar\TankWar\obj\Debug\TankWar.FrmMain.resources
+C:\Documents and Settings\Administrator\桌面\TankWar\TankWar\TankWar\obj\Debug\TankWar.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\TankWar\TankWar\TankWar\obj\Debug\TankWar.csproj.GenerateResource.Cache
+F:\坦克打飞机\TankWar\TankWar\obj\Debug\TankWar.exe
+F:\坦克打飞机\TankWar\TankWar\obj\Debug\TankWar.pdb
+F:\坦克打飞机\TankWar\TankWar\bin\Debug\TankWar.exe
+F:\坦克打飞机\TankWar\TankWar\bin\Debug\TankWar.pdb
+F:\坦克打飞机\TankWar\TankWar\obj\Debug\ResolveAssemblyReference.cache
+F:\坦克打飞机\TankWar\TankWar\obj\Debug\TankWar.FrmMain.resources
+F:\坦克打飞机\TankWar\TankWar\obj\Debug\TankWar.Properties.Resources.resources
+F:\坦克打飞机\TankWar\TankWar\obj\Debug\TankWar.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\项目\坦克打飞机\TankWar\TankWar\obj\Debug\TankWar.exe
+C:\Documents and Settings\Administrator\桌面\项目\坦克打飞机\TankWar\TankWar\obj\Debug\TankWar.pdb
+C:\Documents and Settings\Administrator\桌面\项目\坦克打飞机\TankWar\TankWar\bin\Debug\TankWar.exe
+C:\Documents and Settings\Administrator\桌面\项目\坦克打飞机\TankWar\TankWar\bin\Debug\TankWar.pdb
+C:\Documents and Settings\Administrator\桌面\项目\坦克打飞机\TankWar\TankWar\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\项目\坦克打飞机\TankWar\TankWar\obj\Debug\TankWar.FrmMain.resources
+C:\Documents and Settings\Administrator\桌面\项目\坦克打飞机\TankWar\TankWar\obj\Debug\TankWar.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\项目\坦克打飞机\TankWar\TankWar\obj\Debug\TankWar.csproj.GenerateResource.Cache
